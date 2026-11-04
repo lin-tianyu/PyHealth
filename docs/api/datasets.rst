@@ -294,6 +294,7 @@ Available Datasets
     datasets/pyhealth.datasets.BaseDataset
     datasets/pyhealth.datasets.SampleDataset
     datasets/pyhealth.datasets.PatchDataset
+    datasets/pyhealth.datasets.CHAOSDataset
     datasets/pyhealth.datasets.MIMIC3Dataset
     datasets/pyhealth.datasets.MIMIC4Dataset
     datasets/pyhealth.datasets.FHIRDataset
